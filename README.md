@@ -1,3 +1,10 @@
+# This repo is unaltered except for this readme file.
+# This repo was built and has the web server admin welcome page already setup.
+# This gives us a pretty gui welcome page, instead of seeing a default "Error 404" page.
+# I did not rebuild the .war file, setup login page or anything else.
+# Intended Use: Only to git clone the repo, use docker build command, and use docker run command to launch war file, and view tomcat web server page.
+
+
 # docker-tomcat-tutorial
 A basic tutorial on running a web app on Tomcat using Docker
 
